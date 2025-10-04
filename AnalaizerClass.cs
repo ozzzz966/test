@@ -311,8 +311,8 @@ namespace AnalaizerClassLibrary
                 case "*": return 2;
                 case "/": return 2;
                 case "mod": return 2; // <-- додала
-                case "p": return 4; // унарний плюс
-                case "m": return 4; // унарний мінус
+                case "p": return 3; // унарний плюс
+                case "m": return 3; // унарний мінус
                 default: return 0; // <-- для невідомих символів
             }
         }
