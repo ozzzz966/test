@@ -20,7 +20,6 @@ F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\Analize
 F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CopyComplete
 F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.dll
 F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.pdb
-C:\Users\Olesya\Downloads\Calculator\Calculator\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.dll
 C:\Users\Olesya\Downloads\Calculator\Calculator\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.pdb
 C:\Users\Olesya\Downloads\Calculator\Calculator\AnalizerClassLibrary\bin\Debug\CalcClassBr.dll
 C:\Users\Olesya\Downloads\Calculator\Calculator\AnalizerClassLibrary\bin\Debug\ErrorLibrary.dll
